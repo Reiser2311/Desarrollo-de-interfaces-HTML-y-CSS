@@ -1,0 +1,133 @@
+body {
+    margin: 0 auto;
+    color: white;
+}
+
+.contenido {
+    max-width: 1300px;
+}
+
+#fondo1 {
+    background-image: url("showcase.jpg");
+    height: 812px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#marte {
+    float: left;
+    margin-left: 50px;
+}
+
+#buscador {
+    float: right;
+    display: inline;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.titulo {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#cabecera {
+    min-height: 30px;
+}
+
+#texto1 {
+    margin-left: 50px;
+    font-size: 20px;
+    max-width: 500px;
+    margin-top: 20px;
+}
+
+.imagenes {
+    margin-top: 30px;
+    display: inline;
+}
+
+.imag {
+    height: 200px;
+    margin-inline: 20px;
+    margin-left: 60px;
+}
+
+#fondo2 {
+    background-image: url("feature.jpg");
+    background-size: cover;
+    height: 800px;
+    background-repeat: no-repeat;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+#texto2 {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+
+}
+
+#fondo3 {
+    background-image: url("background-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+.texto3 {
+    max-width: 500px;
+}
+
+.imagen3 {
+    height: 200px;
+}
+
+#fondo4 {
+    background-image: url("background-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+.imagen4 {
+    height: 300px;
+}
+
+#feature {
+    text-align: center;
+}
+
+#img4 {
+    text-align: center;
+}
+
+a {
+    color: white;
+    margin-right: 30px;
+}
+
+#cuerpo3_1 {
+    float: left;
+    margin-right: 20px;
+}
+
+#cuerpo3_2 {
+    float: right;
+}
+
+#imagen3_1 {
+    float: right;
+}
+
+#imagen3_2 {
+    float: left;
+    margin-right: 20px;
+}
